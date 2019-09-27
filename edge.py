@@ -7,6 +7,8 @@ Usage:
   edge.py [<video source>]
 
   Trackbars control edge thresholds.
+  Replace edge.py in the directory here: https://github.com/opencv/opencv/tree/master/samples/python
+  Majority of code is not my work but the work of those from here: https://github.com/opencv/opencv/tree/master/samples/python
   Myles Byrne - 9/26/19 Change Red lines and change threshhold
 '''
 
